@@ -1,2 +1,2 @@
 # moon-token
-bep20
+edited BEP20 Reflections Contract with Website.
